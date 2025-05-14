@@ -1,0 +1,137 @@
+ body {
+    background-image: url('https://assets.thehansindia.com/h-upload/2019/12/27/248830-worldtour.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+align-items: center;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width:97%;
+    align-items: center;
+}
+.btn{
+            font-size: 1.1rem;
+            padding: 8px 3px;
+            border-radius:5px;
+            outline:none;
+            border: 100%;
+            width:100% ;
+            background-color:#0d9ff3;
+            color:white;
+            cursor:pointer;
+            transition:0.9s;
+}
+.container button{
+    font-size: 1.1rem;
+            padding: 8px 3px;
+            border-radius:5px;
+            outline:none;
+            border: 100%;
+            width:100% ;
+            background-color:#0d9ff3;
+            color:white;
+            cursor:pointer;
+            transition:0.9s;
+}
+.navbar {
+
+background-color: rgba(255, 255, 255, 0.8);
+
+font-family: Arial, sans-serif;
+
+padding-right: 15px;
+
+padding-left: 0px;
+height: 70px;
+
+}
+
+
+.nav div {
+
+display: flex;
+
+align-items: center;
+
+justify-content: space-between;
+
+}
+
+li {
+
+list-style: none;
+
+display: inline-block;
+
+padding-right:30px;
+padding-bottom:30px ;
+padding-left:50px ;
+
+}
+
+
+li a {
+
+color: black;
+
+font-size: 18px;
+
+font-weight: bold
+}
+
+li h1{
+
+padding-right: 50px;
+}
+
+.container {
+
+background-color: rgba(255, 255, 255, 0.8);
+
+padding: 20px;
+border-radius: 8px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.img {
+
+height:10px;
+
+width:5px;
+
+}
+
+div .card{
+
+width: 250px;
+
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+text-align: center;
+}
+h2{
+    text-align: center;
+}
+.container input {
+        width: 90%;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+
+        form{
+            margin: 0 2rem;
+        }
+        .form-title{
+            font-size:1.5rem;
+            font-weight:bold;
+            text-align: center;
+            padding:1.3rem;
+            margin-bottom: 0.4rem;
+        }
